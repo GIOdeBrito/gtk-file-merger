@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Merger>
+	<Title>Red Dragon Reader</Title>
+
+	<Description>Merge settings for the Red Dragon Reader web application.</Description>
+
+    <Version>1.0</Version>
+
+	<MergerItemSettings>
+	    <OutDir>
+	        /mnt/terafalso/Projetos/Web/RedDragon/reader/codigo-fonte
+	    </OutDir>
+
+	    <OutExt>
+	        js
+	    </OutExt>
+
+	    <OutName>
+	        samka6
+	    </OutName>
+	</MergerItemSettings>
+
+    <MergerFilesCollection>
+        <FilePath>/mnt/terafalso/Projetos/Web/RedDragon/reader/codigo-fonte/scripts/globals.js</FilePath>
+		<FilePath>/mnt/terafalso/Projetos/Web/RedDragon/reader/codigo-fonte/scripts/models.js</FilePath>
+		<FilePath>/mnt/terafalso/Projetos/Web/RedDragon/reader/codigo-fonte/scripts/start.js</FilePath>
+		<FilePath>/mnt/terafalso/Projetos/Web/RedDragon/reader/codigo-fonte/scripts/controls.js</FilePath>
+		<FilePath>/mnt/terafalso/Projetos/Web/RedDragon/reader/codigo-fonte/scripts/toolbar.js</FilePath>
+		<FilePath>/mnt/terafalso/Projetos/Web/RedDragon/reader/codigo-fonte/scripts/image.js</FilePath>
+		<FilePath>/mnt/terafalso/Projetos/Web/RedDragon/reader/codigo-fonte/scripts/bookmarker.js</FilePath>
+		<FilePath>/mnt/terafalso/Projetos/Web/RedDragon/reader/codigo-fonte/scripts/testmode.js</FilePath>
+		<FilePath>/mnt/terafalso/Projetos/Web/RedDragon/reader/codigo-fonte/scripts/contextmenu.js</FilePath>
+		<FilePath>/mnt/terafalso/Projetos/Web/RedDragon/reader/codigo-fonte/scripts/pages.js</FilePath>
+		<FilePath>/mnt/terafalso/Projetos/Web/RedDragon/reader/codigo-fonte/scripts/contentprotection.js</FilePath>
+		<FilePath>/mnt/terafalso/Projetos/Web/RedDragon/reader/codigo-fonte/scripts/network.js</FilePath>
+		<FilePath>/mnt/terafalso/Projetos/Web/RedDragon/reader/codigo-fonte/scripts/rendering.js</FilePath>
+		<FilePath>/mnt/terafalso/Projetos/Web/RedDragon/reader/codigo-fonte/scripts/screen.js</FilePath>
+		<FilePath>/mnt/terafalso/Projetos/Web/RedDragon/reader/codigo-fonte/scripts/utility.js</FilePath>
+		<FilePath>/mnt/terafalso/Projetos/Web/RedDragon/reader/codigo-fonte/scripts/zoom.js</FilePath>
+		<FilePath>/mnt/terafalso/Projetos/Web/RedDragon/reader/codigo-fonte/scripts/pdfitem.js</FilePath>
+    </MergerFilesCollection>
+</Merger>
